@@ -13,10 +13,10 @@ services:
     list:
       - title: "Objective 1"
         desc: "Integrate computational data analysis processes with a flexible visualization system as asingle process through a visual analytics dashboard. GenOptics' ultimate goal is to conceal from the usersthe technical complexity generated from the interconnection and integration of heterogeneous andmulti-omics biodata as well as the corresponding analysis tools and visualization techniques"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: https://unsplash.com/photos/zF_pTLx_Dkg #find more at https://fontawesome.com/icons
       - title: "Objective 2"
-        desc: "A better exploitation of the accumulated volume of multi-omics data allowing the identificationof new biomarkers and new therapeutic targets through targeted clinicobiological studies. The GenOpticsplatform will be evaluated and validated through four pilot cases: (i) chronic lymphocytic leukemia (CLL),the most common leukemia in the Western world; (ii) hepatocellular carcinoma, the third most commoncause of cancer death worldwide; (iii) colorectal cancer, the third most common cancer worldwide, with agrowing number of new cases in each year and a strong link with the western lifestyle, and (iv) cysticfibrosis, the 2nd most frequent in disease vectors and the 1st in number of births genetic disease of theGreek population"
-        icon: fas fa-laptop       
+        desc: "A better exploitation of the accumulated volume of multi-omics data allowing the identificationof new biomarkers and new therapeutic targets through targeted clinicobiological studies. The GenOpticsplatform will be evaluated and validated through four pilot cases: (i) ***chronic lymphocytic leukemia (CLL)***, (ii) ***hepatocellular carcinoma***, (iii) ***colorectal cancer***, and (iv) ***cysticfibrosis***"
+        icon: https://unsplash.com/photos/zF_pTLx_Dkg       
 
 # portfolio:
 #     title: "Portfolio"
@@ -79,13 +79,13 @@ services:
 #         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "PARTNERS"
+    text: "Here is the members of our consortium"
+    subtext: Project. **GenOptics**
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "INAB-CERTH"
+        role: "Partner 1"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -94,9 +94,9 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "IMBB-FORTH"
+        role: "Partner 2"
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -104,8 +104,28 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Faculty of Medicine- University of Ioannina"
+        role: "Partner 3"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "DRAXIS ENVIRONMENTAL"
+        role: "Company 1"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Tero"
+        role: "Company 2"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -117,7 +137,7 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Feel free to contact us for further infomartion"
     section: contact
     
 footer:
