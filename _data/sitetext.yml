@@ -13,10 +13,10 @@ services:
     list:
       - title: "Objective 1"
         desc: "Integrate computational data analysis processes with a flexible visualization system as asingle process through a visual analytics dashboard. GenOptics' ultimate goal is to conceal from the usersthe technical complexity generated from the interconnection and integration of heterogeneous andmulti-omics biodata as well as the corresponding analysis tools and visualization techniques"
-        icon: https://unsplash.com/photos/zF_pTLx_Dkg #find more at https://fontawesome.com/icons
+        icon: fas fa-network-wired # https://unsplash.com/photos/zF_pTLx_Dkg #find more at https://fontawesome.com/icons
       - title: "Objective 2"
         desc: "A better exploitation of the accumulated volume of multi-omics data allowing the identificationof new biomarkers and new therapeutic targets through targeted clinicobiological studies. The GenOpticsplatform will be evaluated and validated through four pilot cases: (i) ***chronic lymphocytic leukemia (CLL)***, (ii) ***hepatocellular carcinoma***, (iii) ***colorectal cancer***, and (iv) ***cysticfibrosis***"
-        icon: https://unsplash.com/photos/zF_pTLx_Dkg       
+        icon: fas fa-search # https://unsplash.com/photos/zF_pTLx_Dkg       
 
 # portfolio:
 #     title: "Portfolio"
@@ -86,54 +86,54 @@ team:
     people:
       - name: "INAB-CERTH"
         role: "Partner 1"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/certh.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.inab.certh.gr/
+            icon: fas fa-link
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
       - name: "IMBB-FORTH"
         role: "Partner 2"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/forth.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.imbb.forth.gr/en/
+            icon: fas fa-link
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
       - name: "Faculty of Medicine- University of Ioannina"
         role: "Partner 3"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/University-of-Ioannina.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://med.uoi.gr/index.php?lang=el
+            icon: fas fa-link
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
       - name: "DRAXIS ENVIRONMENTAL"
         role: "Company 1"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/draxis.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://draxis.gr/
+            icon: fas fa-link
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
       - name: "Tero"
         role: "Company 2"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/tero.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.tero.gr/
+            icon: fas fa-link
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
           
 contact:
     title: "Contact Us"
@@ -142,17 +142,17 @@ contact:
     
 footer:
     legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+    # social:
+    #   - url: https://twitter.com
+    #     icon: "fab fa-twitter"  
+    #   - url: https://facebook.com
+    #     icon: "fab fa-facebook-f"
+    #   - url: https://linkedin.com
+    #     icon: "fab fa-linkedin-in"
+    #   - url: https://github.com/raviriley/agency-jekyll-theme
+    #     icon: "fab fa-github"
+    #   - url: https://instagram.com
+    #     icon: "fab fa-instagram"
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
