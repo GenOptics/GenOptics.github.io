@@ -13,6 +13,20 @@
 	  <script src="assets/js/jquery.min.js"></script>
 	  <script src="assets/js/bootstrap.bundle.min.js"></script>
 
+	  <!-- Change logo after scroll Javascript -->
+	  <script>
+	  $(window).scroll(function() {
+		if ($(".navbar").offset().top > 500) {
+			$('#custom-nav').addClass('affix');
+			$(".navbar-fixed-top").addClass("top-nav-collapse");
+			$('.navbar-brand img').attr('src','assets/img/logo9.png').height('80px').width('230px'); //change src
+		} else {
+			$('#custom-nav').removeClass('affix');
+			$(".navbar-fixed-top").removeClass("top-nav-collapse");
+			$('.navbar-brand img').attr('src','assets/img/logo.png').height('150px').width('260px');
+		}   
+	  });
+	  </script>
 	  <!-- Plugin JavaScript -->
 	  <script src="assets/js/jquery.easing.min.js"></script>
 
