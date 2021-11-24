@@ -7,8 +7,8 @@ header:
 services:
     title: "Overview"
     text: "One of the biggest challenges in Life Sciences is the high complexity and volume of the involved bio-data, as well as the lack of appropriate analysis tools that can be employed for the extraction of new knowledge.
-    In the field of bioinformatics, there is an increasing trend towards the development of user-friendly tools forthe analysis and interpretation of large-scale bio-data, with a variety of specialized tools and managementapproaches available in recent literature. 
-    <br><br><p><b>Goal of GenOptics is to implement a new platform for integrating, analyzing and visualizing multi-omics and other clinicobiogical data, by extending the functionality of established bioinformaticanalysis tools through an interactive visual dashboard</b></p>"
+    In the field of bioinformatics, there is an increasing trend towards the development of user-friendly tools for the analysis and interpretation of large-scale bio-data, with a variety of specialized tools and management approaches available in recent literature. 
+    <br><br><p><b>Goal of GenOptics is to implement a new platform for integrating, analyzing and visualizing multi-omics and other clinicobiogical data, by extending the functionality of established bioinformatic analysis tools through an interactive visual dashboard</b></p>"
     section: services
     list:
       - title: "Objective 1"
