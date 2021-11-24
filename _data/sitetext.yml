@@ -12,10 +12,10 @@ services:
     section: services
     list:
       - title: "Objective 1"
-        desc: "Integrate computational data analysis processes with a flexible visualization system as asingle process through a visual analytics dashboard. GenOptics' ultimate goal is to conceal from the usersthe technical complexity generated from the interconnection and integration of heterogeneous andmulti-omics biodata as well as the corresponding analysis tools and visualization techniques"
+        desc: "Integrate computational data analysis processes with a flexible visualization system as a single process through a visual analytics dashboard. GenOptics' ultimate goal is to conceal from the users the technical complexity generated from the interconnection and integration of heterogeneous and multi-omics biodata as well as the corresponding analysis tools and visualization techniques"
         icon: fas fa-network-wired # https://unsplash.com/photos/zF_pTLx_Dkg #find more at https://fontawesome.com/icons
       - title: "Objective 2"
-        desc: "A better exploitation of the accumulated volume of multi-omics data allowing the identificationof new biomarkers and new therapeutic targets through targeted clinicobiological studies. The GenOpticsplatform will be evaluated and validated through four pilot cases: (i) ***chronic lymphocytic leukemia (CLL)***, (ii) ***hepatocellular carcinoma***, (iii) ***colorectal cancer***, and (iv) ***cysticfibrosis***"
+        desc: "A better exploitation of the accumulated volume of multi-omics data allowing the identification of new biomarkers and new therapeutic targets through targeted clinicobiological studies. The GenOptics platform will be evaluated and validated through four pilot cases: (i) ***chronic lymphocytic leukemia (CLL)***, (ii) ***hepatocellular carcinoma***, (iii) ***colorectal cancer***, and (iv) ***cystic fibrosis***"
         icon: fas fa-search # https://unsplash.com/photos/zF_pTLx_Dkg       
 
 # portfolio:
