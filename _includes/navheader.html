@@ -3,7 +3,7 @@
     <div class="container">
 	  <a class="navbar-brand js-scroll-trigger" href="#page-top">
           {%- if site.logo -%}
-            <img height="{{ site.logo.height | default: 52 }}" src="{{ site.logo.path }}"/>
+            <img height="{{ site.logo.height | default: 52 }}" src="{{ site.logo.path }}" alt="GenOptics"/>
           {%- else -%}
             {{ site.title }}
           {%- endif -%}
@@ -43,7 +43,7 @@
         <div class="intro-heading text-uppercase">{{ site.data.sitetext.header.text | markdownify }}</div>
 	  {%- endif -%}
 	  {%- if site.data.sitetext.header.button -%}
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink }}">{{ site.data.sitetext.header.button }}</a>
+        <a class="btn btn-primary btn-xl text-uppercase text-dark js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink }}">{{ site.data.sitetext.header.button }}</a>
 	  {%- endif -%}
       </div>
     </div>
