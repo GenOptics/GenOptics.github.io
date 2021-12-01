@@ -89,6 +89,7 @@ team:
         image: assets/img/team/certh.jpg
         social:
           - url: https://www.inab.certh.gr/
+            url_description: INAB CERTH website
             icon: fas fa-link
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
@@ -99,6 +100,7 @@ team:
         image: assets/img/team/forth.png
         social:
           - url: https://www.imbb.forth.gr/en/
+            url_description: IMBB FORTH website
             icon: fas fa-link
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
@@ -119,6 +121,7 @@ team:
         image: assets/img/team/draxis.png
         social:
           - url: https://draxis.gr/
+            url_description: DRAXIS ENVIRONMENTAL website
             icon: fas fa-link
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
@@ -129,6 +132,7 @@ team:
         image: assets/img/team/tero.jpg
         social:
           - url: https://www.tero.gr/
+            url_description: Tero website
             icon: fas fa-link
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
