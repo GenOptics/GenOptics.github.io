@@ -111,6 +111,7 @@ team:
         image: assets/img/team/University-of-Ioannina.jpg
         social:
           - url: https://med.uoi.gr/index.php?lang=el
+            url_description: University of Ioannina website
             icon: fas fa-link
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
