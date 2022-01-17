@@ -20,11 +20,11 @@
 		  {%- for link in site.data.navigation.nav -%}
 		  <li class="nav-item">
 		  {%- if link.url -%}
-		    <strong><a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a></strong>
+		    <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
 		  {%- else if link.section -%}
-        <strong><a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a></strong>
+        <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
 		  {%- else -%}
-        <strong><a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a></strong>
+        <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
 		  {%- endif -%}
           </li>
 		  {% endfor %}
