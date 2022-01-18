@@ -71,3 +71,10 @@
     }
   }
 }
+
+@media (max-width:540px) {
+  #mainNav {
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+}
